@@ -4,9 +4,7 @@
 
 ## How to reach me:
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&link=&logo=Steam&logoColor=white" target="_BLANK" />][steam]
-<br><ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/62c9d8389d56c1632687a6b409e3970c1a0a6d599b46a0a52734815e28ef8a26/68747470733a2f2f646973636f72642e636f6d2f6173736574732f30376463613830613130326434313439653937333664346231363263666636662e69636f"><img src="https://camo.githubusercontent.com/62c9d8389d56c1632687a6b409e3970c1a0a6d599b46a0a52734815e28ef8a26/68747470733a2f2f646973636f72642e636f6d2f6173736574732f30376463613830613130326434313439653937333664346231363263666636662e69636f" width="16" height="16" data-canonical-src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" style="max-width:100%;"></a> Happyy#1337</li>
-</ul>
+<br><br>
 
 ## Languages:
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
