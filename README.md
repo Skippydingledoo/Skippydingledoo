@@ -30,4 +30,4 @@
 
 [website]: https://hirbosh.cc
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: happyy#1337
+[discord]: https://happyy#1337/
