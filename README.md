@@ -3,8 +3,8 @@
 - I’m currently learning everything 🤣
 
 ## How to reach me:
-[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&link=&logo=Steam&logoColor=white" />][steam]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" />][discord]
+[<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&link=&logo=Steam&logoColor=white" target="_BLANK" />][steam]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" target="_BLANK" />][discord]
 <br><br>
 
 ## Languages:
