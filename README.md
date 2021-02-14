@@ -1,7 +1,5 @@
 ### Hi there, I'm Skippydingledoo - aka Happy 👋 
 
-## :o
-
 - I’m currently learning everything 🤣
 
 ## How to reach me:
@@ -18,7 +16,7 @@
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
+<br><br>
 
 ## My specs / OS's i use:
 <img align="left" alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -26,7 +24,7 @@
 
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-2C2F33?style=for-the-badge" />
-<br><br>
+<br><br><br>
 
 ![Happy's github stats](https://github-readme-stats.vercel.app/api?username=skippydingledoo&amp;show_icons=true&amp;count_private=true&amp;theme=dark&amp;hide=issues,stars)
 
