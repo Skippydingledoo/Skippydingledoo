@@ -1,4 +1,4 @@
-### Hi there, I'm Skippydingledoo - aka Happy 👋 
+### Hi there, I'm Happy 👋 
 
 - I’m currently learning everything 🤣
 
