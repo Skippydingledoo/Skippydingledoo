@@ -30,4 +30,4 @@
 
 [website]: https://hirbosh.cc
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: https://discord.gg/swift-il
+[discord]: happyy#1337
