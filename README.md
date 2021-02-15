@@ -4,7 +4,7 @@
 
 ## How to reach me:
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&link=&logo=Steam&logoColor=white" target="_BLANK" />][steam]
-<img align="left" alt="Discord" src="https://img.shields.io/badge/Happyy1337-6E85D3?style=for-the-badge&link=&logo=Discord&logoColor=white" target="_BLANK" />
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Happyy1337-6E85D3?style=for-the-badge&link=&logo=Discord&logoColor=white" target="_BLANK" />][discord]
 <br><br>
 
 ## Languages:
@@ -30,4 +30,4 @@
 
 [website]: https://hirbosh.cc
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: https://happyy#1337/
+[discord]: https://discord.gg/pCWXBaPpfn
