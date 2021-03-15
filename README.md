@@ -24,10 +24,5 @@
 <img align="left" alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-2C2F33?style=for-the-badge" />
 <br><br><br>
 
-![Happy's github stats](https://github-readme-stats.vercel.app/api?username=skippydingledoo&amp;show_icons=true&amp;count_private=true&amp;theme=dark&amp;hide=issues,stars)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=skippydingledoo&amp;hide=c%2B%2B&amp;theme=dark&amp;layout=compact)
-
-[website]: https://hirbosh.cc
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: 
+[discord]: https://discord.com/channels/@me
