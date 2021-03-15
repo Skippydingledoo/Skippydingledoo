@@ -22,7 +22,6 @@
 
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-2C2F33?style=for-the-badge" />
-<br><br><br>
 
 [steam]: https://steamcommunity.com/profiles/76561198999788963
 [discord]: https://discord.com/channels/@me
