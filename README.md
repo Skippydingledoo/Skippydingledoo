@@ -30,4 +30,4 @@
 
 [website]: https://hirbosh.cc
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: alert("Hello! I am an alert box!!")
+[discord]: 
