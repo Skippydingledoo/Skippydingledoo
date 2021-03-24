@@ -24,4 +24,4 @@
 <img align="left" alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-2C2F33?style=for-the-badge" />
 
 [steam]: https://steamcommunity.com/profiles/76561198999788963
-[discord]: https://discord.com/channels/@me
+[discord]: https://discord.com/users/293022381021069312
