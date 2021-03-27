@@ -1,6 +1,6 @@
 ### How to reach me:
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&link=&logo=Steam&logoColor=white" target="_BLANK" />][steam]
-[<img align="left" alt="Discord" src="https://img.shields.io/badge/Happyy1337-6E85D3?style=for-the-badge&link=&logo=Discord&logoColor=white" target="_BLANK" />][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-6E85D3?style=for-the-badge&link=&logo=Discord&logoColor=white" target="_BLANK" />][discord]
 <br>
 
 ---
