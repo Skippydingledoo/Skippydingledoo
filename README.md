@@ -26,7 +26,9 @@
 
 ---
 
-**© [Happy](https://github.com/skippydingledoo)** <p align="right"> <img src="https://komarev.com/ghpvc/?username=skippydingledoo&label=Profile%20views&color=0e75b6&style=flat" alt="skippydingledoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skippydingledoo&label=Profile%20views&color=0e75b6&style=flat" alt="skippydingledoo" /> </p>
+
+**© [Happy](https://github.com/skippydingledoo)** 
 
 [steam]: https://steamcommunity.com/profiles/76561198999788963
 [discord]: https://discord.com/users/293022381021069312
