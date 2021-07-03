@@ -7,11 +7,13 @@
 ---
 
 ### Languages:
-[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Skippydingledoo)
-[![SourcePawn](https://img.shields.io/static/v1?label=&message=SourcePawn&color=F69E1D&style=for-the-badge&logo=sourcepawn&logoColor=white)](https://github.com/Skippydingledoo)
-[![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Skippydingledoo)
-[![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=7377AD&style=for-the-badge&logo=php&logoColor=white)](https://github.com/Skippydingledoo)
-[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Skippydingledoo)
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Skippydingledoo)
+[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=2F74C0)](https://github.com/Skippydingledoo)
+[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://github.com/Skippydingledoo)
+[![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=html5&logoColor=E34F26)](https://github.com/Skippydingledoo)
+[![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=php&logoColor=7377AD)](https://github.com/Skippydingledoo)
+[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/Skippydingledoo)
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=191919&style=for-the-badge&logo=java&logoColor=FFA518)](https://github.com/Skippydingledoo)
 <br>
 
 ---
@@ -19,6 +21,7 @@
 ### Tools:
 [![Visual Studio Code](https://img.shields.io/static/v1?label=&message=VISUAL%20STUDIO%20CODE&color=191919&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)](https://github.com/Skippydingledoo)
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=191919&style=for-the-badge&logo=MySQL)](https://github.com/Skippydingledoo)
+[![Vue](https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=191919)](https://github.com/Skippydingledoo)
 <br>
 
 ---
