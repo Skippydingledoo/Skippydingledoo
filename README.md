@@ -1,6 +1,5 @@
 ### How to reach me:
 [![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discord.com/users/293022381021069312)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/Skippydingledoo)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam)](https://steamcommunity.com/profiles/76561198999788963)
 <br>
 
