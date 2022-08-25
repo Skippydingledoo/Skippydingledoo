@@ -11,7 +11,7 @@
 
 > **`Full-Stack Developer`**
 >  
-> <a target="_blank" href="https://cph-gaming.dk/">**https://cph-gaming.dk/**</a> <br> <a target="_blank" href="https://hxppy.xyz/">**https://hxppy.xyz/**</a>
+> **https://cph-gaming.dk/** <br> **https://hxppy.xyz/**
 
 <br>
 
@@ -34,8 +34,8 @@
 <div align="center">
   <h3>Links</h3>
   
-  <a href="https://discord.com/users/293022381021069312"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=161B22&style=for-the-badge&logo=discord" alt="Discord" /></a>
-  <a href="https://steamcommunity.com/profiles/76561198999788963"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=161B22&style=for-the-badge&logo=Steam" alt="Steam" /></a>
+  <a target="_blank" href="https://discord.com/users/293022381021069312"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=161B22&style=for-the-badge&logo=discord" alt="Discord" /></a>
+  <a target="_blank" href="https://steamcommunity.com/profiles/76561198999788963"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=161B22&style=for-the-badge&logo=Steam" alt="Steam" /></a>
 </div>
 
 ---
