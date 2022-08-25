@@ -11,7 +11,7 @@
 
 > **`Full-Stack Developer`**
 >  
-> **https://cph-gaming.dk/** <br> **https://hxppy.xyz/**
+> <b>https://cph-gaming.dk/</b> <br> <b>https://hxppy.xyz/</b>
 
 <br>
 
