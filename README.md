@@ -1,7 +1,7 @@
 
 ---
 
-<a href="https://discord.com/users/293022381021069312">
+<a target="_blank" href="https://discord.com/users/293022381021069312">
    <img src="https://lanyard.cnrad.dev/api/293022381021069312?borderRadius=5px&bg=161B22" align="right" />
 </a>
 
@@ -11,7 +11,7 @@
 
 > **`Full-Stack Developer`**
 >  
-> **https://cph-gaming.dk/** <br> **https://hxppy.xyz/**
+> <a target="_blank" href="https://cph-gaming.dk/">**https://cph-gaming.dk/**</a> <br> <a target="_blank" href="https://hxppy.xyz/">**https://hxppy.xyz/**</a>
 
 <br>
 
