@@ -30,7 +30,7 @@
    <h3>Frameworks / Libaries</h3>
    
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /></a>
-   <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=React.js&color=20232A&style=for-the-badge&logo=React&logoColor=61DAFB" alt="React.js" /></a>
+   <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&style=for-the-badge&logo=React&logoColor=61DAFB" alt="React" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=6DA55F&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&color=38BDF8&style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="TailwindCSS" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=for-the-badge&logo=jquery&logoColor=61DAFB" alt="jQuery" /></a>
