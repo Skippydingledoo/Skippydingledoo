@@ -27,7 +27,7 @@
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=PHP&color=7377AD&style=for-the-badge&logo=php&logoColor=FFFFFF" alt="PHP" /></a>
    
-   <h3>Frameworks / Libaries</h3>
+   <h3>Frameworks / Libaries / Databases</h3>
    
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&style=for-the-badge&logo=React&logoColor=61DAFB" alt="React" /></a>
@@ -35,6 +35,8 @@
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&color=38BDF8&style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="TailwindCSS" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=for-the-badge&logo=jquery&logoColor=61DAFB" alt="jQuery" /></a>
    <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=563D7C&style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" /></a>
+   <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00000F&style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" /></a>
+   <a href="https://github.com/Skippydingledoo"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=4EA94B&style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" /></a>
 </div>
 
 ---
