@@ -1,3 +1,12 @@
+
+---
+
+<div align="center">
+   <a target="_blank" href="https://discord.com/users/293022381021069312">
+      <img src="https://lanyard.cnrad.dev/api/293022381021069312?borderRadius=5px&bg=161B22" align="center" />
+   </a>
+</div>
+
 ---
 
 <div align="center">
@@ -27,6 +36,7 @@
 <div align="center">
   <h3>Links</h3>
   
+  <a target="_blank" href="https://discord.com/users/293022381021069312"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
   <a target="_blank" href="https://steamcommunity.com/profiles/76561198999788963"><img src="https://img.shields.io/static/v1?label=&message=Steam&color=1B2838&style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam" /></a>
 </div>
 
